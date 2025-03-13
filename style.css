@@ -342,5 +342,17 @@ footer img {
 .hamburger{
   display: block;
 }
+
+
+footer ul {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  gap: 50px;
+  
+}
+
  
 }
